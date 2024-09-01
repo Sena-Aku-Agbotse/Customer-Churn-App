@@ -1,4 +1,4 @@
-Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
 Female,No,No,Yes,28,No,No,No,No,No internet service,No internet service,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),108.73,2413.5
 Female,No,No,No,43,Yes,No,Fiber optic,No,No,Yes,No,Yes,No internet service,One year,No,Credit card (automatic),125.27,1679.11
 Female,No,No,Yes,72,No,No,No,Yes,Yes,No,No internet service,No,No,Two year,No,Bank transfer (automatic),48.27,5494.85
