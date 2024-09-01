@@ -35,8 +35,8 @@ def show():
 
             st.markdown("#### Documentation")
             st.write("""
-                - [Source Code](https://github.com/elishastanley/Customer-Churn-Prediction-App)
-                - [Model Training](https://github.com/elishastanley/Churn-Prediction-Enhancing-Retention-with-Machine-Learning)
+                - [Source Code](https://github.com/Sena-Aku-Agbotse/Customer-Churn-App)
+                - [Model Training](https://github.com/Sena-Aku-Agbotse/Customer-Churn-App)
             """)
         
         st.image("images/churn05.png", use_column_width="always")
@@ -44,17 +44,17 @@ def show():
     with col2:
         st.markdown("#### 🔗 Quick Links")
         st.write("""
-            - [GitHub Repository](https://github.com/elishastanley/Churn-Prediction-Enhancing-Retention-with-Machine-Learning)
-            - [LinkedIn Profile](https://www.linkedin.com/in/elisha-stanley/)
-            - [Read on Medium](https://medium.com/@elishastanley255)
+            - [GitHub Repository](https://github.com/Sena-Aku-Agbotse/Customer-Churn-App)
+            - [LinkedIn Profile](https://www.linkedin.com/in/sena-agbotse/)
+            - [Read on Medium](https://https://medium.com/@agbotse81/customer-churn-prediction-app-0bb1b54d5298)
         """)
 
         st.markdown("##### 🤝 Connect with Me")
         st.write("""
-            - [GitHub](https://github.com/elishastanley)
-            - [LinkedIn](https://www.linkedin.com/in/elisha-stanley/)
-            - [Medium](https://medium.com/@elishastanley255)
-            - Contact me at [Email](mailto:elishastanley255@gmail.com)
+            - [GitHub](https://github.com/Sena-Aku-Agbotse)
+            - [LinkedIn](https://www.linkedin.com/in/sena-agbotse)
+            - [Medium](https://medium.com/@agbotse81/customer-churn-prediction-app-0bb1b54d5298)
+            - Contact me at [Email](mailto:agbotse81@gmail.com)
         """)
 
 
